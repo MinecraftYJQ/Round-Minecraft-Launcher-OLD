@@ -1,0 +1,17 @@
+{
+  "exitWithMinecraft": false,
+  "javaPath": "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\javaw.exe",
+  "windowSizeWidth": 854,
+  "windowSizeHeight": 480,
+  "language": "zh",
+  "downloadSource": 2,
+  "checkAccountBeforeStart": false,
+  "accounts": [{
+    "ver": "1.12.2",
+    "playerName": "PlayerName",
+    "loginMethod": 0,
+    "selected": true
+  }],
+  "printStartupInfo": false,
+  "maxMemory": 8127
+}

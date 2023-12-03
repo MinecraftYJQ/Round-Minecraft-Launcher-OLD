@@ -1,0 +1,7 @@
+Microsoft Windows [版本 10.0.22621.2283]
+(c) Microsoft Corporation。保留所有权利。
+
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug>where javaw.exe&exit
+C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+C:\Program Files\Common Files\Oracle\Java\javapath\javaw.exe
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath\javaw.exe
