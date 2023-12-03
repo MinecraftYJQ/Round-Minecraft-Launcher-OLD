@@ -1,6 +1,6 @@
 {
   "exitWithMinecraft": false,
-  "javaPath": "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\javaw.exe",
+  "javaPath": "",
   "windowSizeWidth": 854,
   "windowSizeHeight": 480,
   "language": "zh",
@@ -8,7 +8,7 @@
   "checkAccountBeforeStart": false,
   "accounts": [{
     "ver": "1.12.2",
-    "playerName": "PlayerName",
+    "playerName": "",
     "loginMethod": 0,
     "selected": true
   }],
