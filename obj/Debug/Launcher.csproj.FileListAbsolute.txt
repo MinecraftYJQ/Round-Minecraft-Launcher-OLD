@@ -24,7 +24,6 @@ F:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\System.Valu
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Properties.Resources.resources
-F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.sz.resources
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CopyComplete
@@ -79,7 +78,6 @@ F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Wi
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
 F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
-F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe.config
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
@@ -113,3 +111,181 @@ D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Lau
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\NuGet.Frameworks.dll
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.dll
 D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.pdb
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\NuGet.Frameworks.dll
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.dll
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.pdb
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+\\Desktop-4enslmn\其他\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe.config
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.pdb
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Newtonsoft.Json.dll
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\NuGet.Frameworks.dll
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\System.ValueTuple.dll
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.dll
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.pdb
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe.config
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.blue.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.concerning.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Error.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.MainWindow.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Properties.Resources.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.kzt.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.starts.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Versions_list.resources
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CopyComplete
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe
+H:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.pdb
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\NuGet.Frameworks.dll
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.dll
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Debug\Plugin.Media.pdb
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+F:\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Debug\Launcher.Versions_list.resources
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe.config
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.pdb
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\RMCL\Round Minecraft Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\RMCL\Round Minecraft Launcher\bin\Debug\System.ValueTuple.dll
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.blue.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.concerning.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Error.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.MainWindow.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.kzt.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Window.starts.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Versions_list.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CopyComplete
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.pdb
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.blue.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.concerning.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Error.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.MainWindow.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.kzt.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Window.starts.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Versions_list.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.pdb
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe.config
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.pdb
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Desktop\Round Minecraft Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Round Minecraft Launcher\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CopyComplete
+G:\其他\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe.config
+G:\其他\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.exe
+G:\其他\Round Minecraft Launcher\bin\Debug\Round Minecraft Launcher.pdb
+G:\其他\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+G:\其他\Round Minecraft Launcher\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+G:\其他\Round Minecraft Launcher\bin\Debug\Newtonsoft.Json.dll
+G:\其他\Round Minecraft Launcher\bin\Debug\NuGet.Frameworks.dll
+G:\其他\Round Minecraft Launcher\bin\Debug\System.ValueTuple.dll
+G:\其他\Round Minecraft Launcher\bin\Debug\Plugin.Media.dll
+G:\其他\Round Minecraft Launcher\bin\Debug\Plugin.Media.pdb
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+G:\其他\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe.config
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.archive_export.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.Birthday_Happy.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.bj.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.blue.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.Christmas_Happy.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.concerning.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Error.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.Info_Box_Window.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.MainWindow.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Properties.Resources.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.kzt.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.MessageBoxWindow.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.Show_Window.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Window.starts.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.Versions_list.resources
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+G:\其他\Round Minecraft Launcher\obj\Debug\Launcher.csproj.CopyComplete
+G:\其他\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.exe
+G:\其他\Round Minecraft Launcher\obj\Debug\Round Minecraft Launcher.pdb
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.Resource1.resources
+D:\Desktop\Round Minecraft Launcher\obj\Debug\Launcher.cs.Update_Window.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.cs.Update_Window.resources
+D:\RMCL\Round Minecraft Launcher\obj\Debug\Launcher.Resource1.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Round Minecraft Launcher.exe.config
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Round Minecraft Launcher.exe
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Round Minecraft Launcher.pdb
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\Newtonsoft.Json.dll
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\bin\Debug\System.ValueTuple.dll
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.csproj.AssemblyReference.cache
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.cs.Update_Window.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.archive_export.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.Birthday_Happy.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.bj.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.blue.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.Christmas_Happy.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.concerning.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Error.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.Info_Box_Window.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.MainWindow.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Properties.Resources.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.kzt.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.MessageBoxWindow.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Resource1.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.Show_Window.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Window.starts.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.Versions_list.resources
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Launcher.csproj.CopyComplete
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Round Minecraft Launcher.exe
+D:\RMCL\版本迭代源码\Round Minecraft Launcher3.2.0.0\obj\Debug\Round Minecraft Launcher.pdb

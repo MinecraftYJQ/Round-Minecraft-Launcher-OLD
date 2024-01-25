@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RMCL\\版本迭代源码\\Round Minecraft Launcher3.2.0.0\\Launcher.csproj": {}
+  },
+  "projects": {
+    "D:\\RMCL\\版本迭代源码\\Round Minecraft Launcher3.2.0.0\\Launcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RMCL\\版本迭代源码\\Round Minecraft Launcher3.2.0.0\\Launcher.csproj",
+        "projectName": "Round Minecraft Launcher",
+        "projectPath": "D:\\RMCL\\版本迭代源码\\Round Minecraft Launcher3.2.0.0\\Launcher.csproj",
+        "packagesPath": "C:\\Users\\ahadd\\.nuget\\packages\\",
+        "outputPath": "D:\\RMCL\\版本迭代源码\\Round Minecraft Launcher3.2.0.0\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahadd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies.net472": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.22621.2428, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Runtime.WindowsRuntime": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Runtime.WindowsRuntime.UI.Xaml": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Round Minecraft Launcher.exe.config
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Round Minecraft Launcher.exe
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Round Minecraft Launcher.pdb
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Newtonsoft.Json.dll
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\NuGet.Frameworks.dll
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\System.ValueTuple.dll
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Plugin.Media.dll
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\bin\Release\Plugin.Media.pdb
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.csproj.AssemblyReference.cache
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.archive_export.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Window.bj.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.blue.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.concerning.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Error.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.MainWindow.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Window.kzt.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Window.MessageBoxWindow.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Window.starts.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.Versions_list.resources
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Launcher.csproj.CopyComplete
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Round Minecraft Launcher.exe
+D:\Desktop\Round Minecraft Launcher文件\Round Minecraft Launcher\obj\Release\Round Minecraft Launcher.pdb

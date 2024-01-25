@@ -1,0 +1,17 @@
+{
+  "exitWithMinecraft": false,
+  "javaPath": "",
+  "windowSizeWidth": 854,
+  "windowSizeHeight": 480,
+  "language": "zh",
+  "downloadSource": 2,
+  "checkAccountBeforeStart": false,
+  "accounts": [{
+    "ver": "",
+    "playerName": "PlayerName",
+    "loginMethod": 0,
+    "selected": true
+  }],
+  "printStartupInfo": false,
+  "maxMemory": 1024
+}

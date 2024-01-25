@@ -1,14 +1,14 @@
 {
   "exitWithMinecraft": false,
-  "javaPath": "",
+  "javaPath": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\javaw.exe",
   "windowSizeWidth": 854,
   "windowSizeHeight": 480,
   "language": "zh",
   "downloadSource": 2,
   "checkAccountBeforeStart": false,
   "accounts": [{
-    "ver": "",
-    "playerName": "",
+    "ver": "1.20.4",
+    "playerName": "PlayerName",
     "loginMethod": 0,
     "selected": true
   }],
